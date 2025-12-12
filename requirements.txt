@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+Pillow
+imageio
+httpx
+# torch
+# accelerate
+# diffusers
+# transformers

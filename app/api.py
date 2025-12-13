@@ -1,4 +1,3 @@
-import gradio as gr
 from PIL import Image
 import torch
 from diffusers import StableDiffusionImg2ImgPipeline
